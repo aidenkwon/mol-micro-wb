@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[462],{3566:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/mol-micro-wb/blog/tags/hola","allTagsPath":"/mol-micro-wb/blog/tags","count":1}')}}]);
